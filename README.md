@@ -43,6 +43,11 @@ python3 passive_urls.py -d domain.tld [options]
 |-------------|------------------------------------------------|
 | `-po`       | Print the filtered URLs to the terminal output |
 
+## 📂 Output
+- All results are saved in ~/PassiveUrls/<target>/
+- Filtered URLs → <target>.txt
+- Temporary logs are removed automatically
+
 ---
 **Created by:** NakuTenshi
 

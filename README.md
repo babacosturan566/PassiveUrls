@@ -1,4 +1,5 @@
 # PassiveUrls
+<img src="./examples/passiveurls_example.png" width="600" height="420">
 
 PassiveUrls is bug bounty recon tool that passively collects archived URLs for a target domain using the [Wayback Machine (archive.org)](https://archive.org/), then filters them using [uro](https://github.com/s0md3v/uro) to extract clean and unique URLs.
 
@@ -49,7 +50,5 @@ python3 passive_urls.py -d domain.tld [options]
 - Temporary logs are removed automatically
 
 ---
-**Created by:** NakuTenshi
 
-git clone https://github.com/YourUsername/PassiveUrls.git
-cd PassiveUrls
+**Created by:** NakuTenshi
